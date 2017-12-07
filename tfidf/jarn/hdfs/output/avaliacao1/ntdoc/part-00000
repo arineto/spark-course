@@ -1,0 +1,5 @@
+hdfs://namenode:9000/jarn/input/avaliacao1/noticia1.txt	301	5
+hdfs://namenode:9000/jarn/input/avaliacao1/noticia2.txt	353	5
+hdfs://namenode:9000/jarn/input/avaliacao1/noticia3.txt	258	5
+hdfs://namenode:9000/jarn/input/avaliacao1/noticia4.txt	187	5
+hdfs://namenode:9000/jarn/input/avaliacao1/noticia5.txt	215	5
